@@ -1,4 +1,4 @@
-# Introfuction to Python for X-ray Astronomy
+# Introduction to Python for X-ray Astronomy
 
 This is a talk I threw together quickly as a "why should I, as an X-ray
 Astronomer, care about Python" during the COSPAR Capacity Building
